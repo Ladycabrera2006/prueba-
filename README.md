@@ -14,6 +14,14 @@ al hablar en público, ayudándolos a organizar mejor sus ideas antes y durante 
 exposición oral, fomentar el uso de un lenguaje adecuado según el tipo de situación, ya
 sea formal o informal, y desarrollar habilidades que les permitan controlar el nerviosismo
 al comunicarse. 
+**Objetivos de aprendizaje:** Participar de manera fluida y eficiente en diversas situaciones
+de comunicación oral, formales y no formales. 
+
+**Resultados esperados:** Se espera que los estudiantes mejoren su capacidad para
+expresarse de forma clara, coherente y segura en contextos orales, desarrollando la
+capacidad de construir argumentos sólidos para convencer o refutar ideas, participando
+activamente en diversas situaciones comunicativas orales y evaluando el impacto de sus
+intervenciones en la audiencia.
 
 **Esquema curricular (Donde se encuentra el tema en el currículo educativo)** 
 **Curriculo Educativo**
