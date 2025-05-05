@@ -1,4 +1,5 @@
 **Proyecto de analisis y diseño de recursos educativos** 
+
 **Objetivos de aprendizaje:** Participar de manera fluida y eficiente en diversas situaciones
 de comunicación oral, formales y no formales.OG.LL.4.
 
@@ -25,13 +26,21 @@ activamente en diversas situaciones comunicativas orales y evaluando el impacto 
 intervenciones en la audiencia.
 
 **Esquema curricular (Donde se encuentra el tema en el currículo educativo)** 
+
 **Curriculo Educativo**
+
 **Niveles de Educación**
+
 **Inicial**
-Este se da desde los 0 a 5 años y se enfoca en el desarrollo temprano de los niños 
+
+Este se da desde los 0 a 5 años y se enfoca en el desarrollo temprano de los niños
+
 **General Basica**
+
 Es el nivel desde primero hasta decimo grado y es obligatorio para los estudiantes 
+
 **Bachilletaro**
+
 Este nivel cuenta con 10 asignatura y normalmente cursan estudiantes de 16 a 18 años pero nosotros nos enfocamos en la asigantura de Lengua y Literatura sesión 2 Tema: Comunicacion oral y escrita. 
 Esquema curricular (Donde se encuentra el tema en el currículo educativo)
 Tema del recurso educativo: Comunicación oral y escrita
