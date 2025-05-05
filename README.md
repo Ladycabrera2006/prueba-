@@ -1,2 +1,4 @@
-# prueba-
-Este es un proyecto de prueba de la asignatura de recursos educativos 
+**Proyecto de analisis y diseño de recursos educativos** 
+explicar sobre la recursos 
+
+ 
